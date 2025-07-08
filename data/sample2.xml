@@ -1,0 +1,26 @@
+<library>
+    <book>
+        <title>The Great Gatsby</title>
+        <author nationality="American">F. Scott Fitzgerald</author>
+    </book>
+    <book>
+        <title>A Brief History of Time</title>
+        <author nationality="British">Stephen Hawking</author>
+    </book>
+    <book>
+        <title>The Great Gatsby</title>
+        <author nationality="American">F. Scott Fitzgerald</author>
+    </book>
+    <book>
+        <title>A Brief History of Time</title>
+        <author nationality="British">Stephen Hawking</author>
+    </book>
+    <book>
+        <title>The Great Gatsby</title>
+        <author nationality="American">F. Scott Fitzgerald</author>
+    </book>
+    <book>
+        <title>A Brief History of Time</title>
+        <author nationality="British">Stephen Hawking</author>
+    </book>
+</library>
